@@ -30,17 +30,12 @@ At Bridron Solutions, I am committed to applying my technical skills and learnin
 - TypeScript
 - Next.js
 
-
+<br>
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
 </div>
-
-
----
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
-
-<br><br>
+<br>
 <img align="top"  alt="coding"  src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
 
 
