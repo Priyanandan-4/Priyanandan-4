@@ -1,12 +1,10 @@
 # priyanandan
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Linkedin](https://www.linkedin.com/in/priyanandan-a-2437b931a/?trk=opento_sprofile_details)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/priyanandan-a-2437b931a/)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:priyanandanan007@gmail.com)
 
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](Priyanandan-4)
 
 Hi👋,I am Front-End Developer
 
@@ -31,10 +29,6 @@ At Bridron Solutions, I am committed to applying my technical skills and learnin
 - Next.js
 
 <br>
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
-</div>
 <br>
 <img align="top"  alt="coding"  src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
 
