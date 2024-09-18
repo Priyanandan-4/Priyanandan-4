@@ -6,7 +6,7 @@
 
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](Priyanandan-4)
 
-Hi👋,I am Front-End Developer
+Hi👋,I am Front-End Developer💻
 
 As a dedicated Front-End Developer Intern at Bridron Solutions, I am actively honing my skills in crafting dynamic and user-centric web experiences. My expertise spans a range of front-end technologies, including HTML, CSS, and Bootstrap, allowing me to build responsive and visually appealing websites.
 
