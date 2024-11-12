@@ -4,7 +4,6 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:priyanandanan007@gmail.com)
 
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](Priyanandan-4)
 
 Hi👋,I am Front-End Developer💻
 
