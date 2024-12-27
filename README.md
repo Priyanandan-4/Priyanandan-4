@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:priyanandanan007@gmail.com)
 
 
-Hi👋,I am Front-End Developer 💻
+Hi👋,I am Front-End Developer💻
 
 As a dedicated Front-End Developer Intern at Bridron Solutions, I am actively honing my skills in crafting dynamic and user-centric web experiences. My expertise spans a range of front-end technologies, including HTML, CSS, and Bootstrap, allowing me to build responsive and visually appealing websites.
 
