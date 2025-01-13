@@ -1,5 +1,5 @@
 <div align="center" id="top">
-  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
+  <img src="https://wallpapers-clan.com/wp-content/uploads/2024/04/jujutsu-kaisen-sukuna-with-red-sword-desktop-wallpaper-preview.jpg" width="900" alt="Profile Readme Generator" />
 
   <a href="https://profile-readme-generator.com">Demo</a>
 </div>
