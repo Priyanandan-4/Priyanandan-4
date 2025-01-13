@@ -7,9 +7,6 @@
 
 <br>
 <br>
-<div align="center">
-  <img width="200" height="auto" src="https://orhun.dev/img/crow.png">
-</div>
 
 # Hey! 👋
 
@@ -50,7 +47,7 @@ At Bridron Solutions, I am committed to applying my technical skills and learnin
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanandan-4&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 
