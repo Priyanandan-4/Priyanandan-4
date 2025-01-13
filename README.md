@@ -11,7 +11,10 @@
 
 ### Hey!
 
-I'm **Orhun**, a Rust aficionado with a strong passion for all things open source. I love writing command-line tools.
+Hi👋,I am Front-End Developer💻
+As a dedicated Front-End Developer Intern at Bridron Solutions, I am actively honing my skills in crafting dynamic and user-centric web experiences. My expertise spans a range of front-end technologies, including HTML, CSS, and Bootstrap, allowing me to build responsive and visually appealing websites.
+Proficient in JavaScript, I leverage frameworks like React and Next.js to develop interactive and high-performance applications. My experience with Redux and TypeScript further enhances my ability to manage state efficiently and ensure type safety in complex applications.
+At Bridron Solutions, I am committed to applying my technical skills and learning from industry experts to contribute effectively to our projects and deliver top-notch digital solutions.
 
 
 
