@@ -14,9 +14,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Front-End+Developer;React+Enthusiast;UI%2FUX+Lover;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 
 <br>
 
