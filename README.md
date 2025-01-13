@@ -4,6 +4,10 @@
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Front-End+Developer;React+Enthusiast;UI%2FUX+Lover;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
 # Hey! 👋
 
 <div style="display: flex; align-items: center; gap: 20px;">
