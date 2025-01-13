@@ -40,9 +40,9 @@ At Bridron Solutions, I am committed to applying my technical skills and learnin
 - Contributing to open-source projects
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](Your_LinkedIn_URL)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](Your_GitHub_URL)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react)](Your_Portfolio_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([[Your_LinkedIn_URL](https://github.com/Priyanandan-4)](https://www.linkedin.com/in/priyanandan4/))
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]([Your_GitHub_URL](https://github.com/Priyanandan-4))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react)]([Your_Portfolio_URL](https://portfolio-priyanandanan007-gmailcoms-projects.vercel.app))
 
 ---
 
