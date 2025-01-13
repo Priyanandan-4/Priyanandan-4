@@ -1,6 +1,8 @@
-<div align="center">
-  <img width="200" height="auto" src="https://orhun.dev/img/crow.png">
-</div>
+<h4 align="center"><samp> Hi there 👋 I am a self-taught React developer with a strong passion for front-end development and building dynamic web applications.</samp></h4>
+
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
 
 # Hey! 👋
 
