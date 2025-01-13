@@ -5,14 +5,16 @@
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
+<br>
+<br>
 
-<p align="center">
-<a href= "https://dev.to/ari_hacks"><img src="[https://img.icons8.com/windows/32/000000/dev.png](https://fishhanks.com/wp-content/uploads/2018/08/kisspng-computer-icons-logo-clip-art-instagram-logo-5acbcae532b034.7535309115233051892076.jpg)"/></a>
-<a href= 'https://x.com/priyanandantx"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
-</p>
+I'm **Orhun**, a Rust aficionado with a strong passion for all things open source. I love writing command-line tools.
 
-<p align="center"><samp>
+[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/orhun.gpg) [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/The-Grindhouse/guidelines)
+
+<br>
+
+<!-- <p align="center"><samp>
 Check out my repos ⬇️  
   </samp>
 </p>
